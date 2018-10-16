@@ -8,6 +8,6 @@ In detail, this project includes:
 
 •	[EDA.R](https://github.com/xinlianyu/Rental-price-prediction-in-greater-Boston-area/blob/master/EDA/EDA.R): explore data
 
-•	[trainModels.R](https://github.com/xinlianyu/Rental-price-prediction-in-greater-Boston-area/blob/master/trainModels/trainModels.R): train different models to predict rental price
+•	[trainModels.R](https://github.com/xinlianyu/Rental-price-prediction-in-greater-Boston-area/blob/master/trainModels/trainModels.R): fit	models to predict rental price
 
 •	[Shiny.R](https://github.com/xinlianyu/Rental-price-prediction-in-greater-Boston-area/tree/master/Shiny): built an interactive Shiny application to visualize the predicted rental price
