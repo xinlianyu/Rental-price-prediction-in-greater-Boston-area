@@ -1,6 +1,6 @@
 # Rental-price-prediction-in-greater-Boston-area
 
-This repo contains codes for predicting rental price in Boston area with data scraped from Rentals.com.
+This repo contains codes for predicting rental price in Boston area with data scraped from [Rentals.com](https://www.rentals.com/).
 
 In detail, this project includes:
 
