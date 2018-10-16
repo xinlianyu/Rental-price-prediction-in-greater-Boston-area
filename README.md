@@ -4,7 +4,7 @@ This repo contains codes for predicting rental price in Boston area with data sc
 
 In detail, this project includes:
 
-•	[scrapingData.R](https://github.com/xinlianyu/Rental-price-prediction-in-greater-Boston-area/blob/master/scrapeData/scrapingData.R): scraped data on	properties	and	prices from Rentals.com using 'rvest' 
+•	[scrapingData.R](https://github.com/xinlianyu/Rental-price-prediction-in-greater-Boston-area/blob/master/scrapeData/scrapingData.R): scrape data on properties	and	prices from Rentals.com using 'rvest' 
 
 •	[EDA.R](https://github.com/xinlianyu/Rental-price-prediction-in-greater-Boston-area/blob/master/EDA/EDA.R): explore data
 
