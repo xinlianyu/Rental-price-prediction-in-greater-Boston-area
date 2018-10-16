@@ -10,4 +10,4 @@ In detail, this project includes:
 
 •	trainModels.R: train different models
 
-•	Shiny.R: built an interactive Shiny application to visualize the predicted rental price
+•	[Shiny.R](https://github.com/xinlianyu/Rental-price-prediction-in-greater-Boston-area/tree/master/Shiny): built an interactive Shiny application to visualize the predicted rental price
